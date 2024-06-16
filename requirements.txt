@@ -1,0 +1,14 @@
+pip
+flask
+gunicorn
+pypdf
+sentence-transformers
+ctransformers
+llama_index
+langchain
+python-dotenv
+langchain_community
+langchain-community
+replicate
+pinecone-client
+PyPDF2
